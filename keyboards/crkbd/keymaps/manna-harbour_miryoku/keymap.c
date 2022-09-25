@@ -90,7 +90,7 @@ void oled_render_logo(void) {
         149,150,10,
         181,182,0
     };
-    oled_write_P(crkbd_logo, false);
+    oled_write_P(qmk_logo, false);
 }
 
 bool oled_task_user(void) {
