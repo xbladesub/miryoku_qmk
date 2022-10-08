@@ -64,3 +64,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #endif
 
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+
+#define MIRYOKU_ALPHAS_QWERTY
+#define MIRYOKU_CLIPBOARD_MAC
+#define MIRYOKU_NAV_VI
+#define MIRYOKU_KLUDGE_MOUSEKEYSPR
+#define MIRYOKU_EXTRA_COLEMAKDH
+
