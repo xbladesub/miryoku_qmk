@@ -33,7 +33,7 @@
 #define MOUSEKEY_MAX_SPEED      8
 #undef MOUSEKEY_TIME_TO_MAX
 // #define MOUSEKEY_TIME_TO_MAX    64
-#define MOUSEKEY_TIME_TO_MAX    48
+#define MOUSEKEY_TIME_TO_MAX    58
 
 // Thumb Combos
 #if defined (MIRYOKU_KLUDGE_THUMBCOMBOS)
