@@ -63,12 +63,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define RGBLIGHT_VAL_STEP 17
 #endif
 
-#define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
-
 #define MIRYOKU_ALPHAS_QWERTY
 #define MIRYOKU_CLIPBOARD_MAC
 #define MIRYOKU_NAV_VI
-#define MIRYOKU_EXTRA_COLEMAKDH
 
 #define MIRYOKU_LAYER_LIST \
 MIRYOKU_X(BASE,   "Base") \
